@@ -23,4 +23,4 @@ jobs:
           if: always()
           with:
             name: report
-            path: ./task_a/report.html
+            path: report.html
